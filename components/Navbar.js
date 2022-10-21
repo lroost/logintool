@@ -1,5 +1,5 @@
-import Link from 'next/link'
-import Image from 'next/image'
+import Link from 'next/link';
+import Image from 'next/image';
 
 export default function Navbar() {
   return (
@@ -16,5 +16,5 @@ export default function Navbar() {
         <Image src="/banner.png" width={966} height={276} />
       </div>
     </div>
-  )
+  );
 }
