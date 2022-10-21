@@ -1,4 +1,4 @@
-import styles from '../styles/Guides.module.css'
+import styles from '../styles/Guides.module.css';
 
 export default function Guides() {
   return (
